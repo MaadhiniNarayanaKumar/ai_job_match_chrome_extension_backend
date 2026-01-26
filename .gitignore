@@ -1,0 +1,17 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+.DS_Store
+node_modules/
+dist/
+build/
+*.egg-info/
+.vercel/
+git 
